@@ -1,7 +1,7 @@
 {
   "private": false,
   "name": "@modiphy/facebook-feed",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Reusable copyright with year and Modiphy logo",
   "main": "dist/index.js",
   "scripts": {
