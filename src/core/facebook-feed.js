@@ -9,10 +9,8 @@ export default class FacebookFeed {
    * @param  {String} selector
    * @param  {Object} options
    */
-  constructor(selector, options = {}) {
-    this.selector = selector
+  constructor(options = {}) {
     this.settings = mergeOptions(defaults, options)
-    this.container = document.querySelector(this.selector)
     this.items = document.querySelectorAll('[data-fb-feed="fb-feed-item"]')
 
     // hide items while loading data using Facebook Open Graph API

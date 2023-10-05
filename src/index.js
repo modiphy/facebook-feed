@@ -1,5 +1,5 @@
 import FacebookFeed from './core/facebook-feed.js'
 
-window.addFacebookFeed = function (selector, options) {
-  const facebookFeed = new FacebookFeed(selector, options)
+window.addFacebookFeed = function (options) {
+  const facebookFeed = new FacebookFeed(options)
 }
