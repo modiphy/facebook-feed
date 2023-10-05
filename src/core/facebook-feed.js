@@ -16,7 +16,7 @@ export default class FacebookFeed {
     this.items = document.querySelectorAll('[data-fb-feed="fb-feed-item"]')
 
     // hide items while loading data using Facebook Open Graph API
-    this.hideItems()
+    // this.hideItems()
     this.loadItems()
   }
 
