@@ -28,7 +28,7 @@
   ... more items
 </div>
 
-<script src="https://cdn.jsdelivr.net/npm/@modiphy/facebook-feed@latest/dist/index.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/modiphy/facebook-feed@latest/dist/index.js"></script>
 <script>
   addFacebookFeed({
     pageId: 'tomaracleans',
