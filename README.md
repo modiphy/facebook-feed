@@ -1,7 +1,7 @@
 # Modiphy Facebook Feed
 ### simple example
 ```html
-<div id="modiphy-facebook-feed">
+<div>
   <a
     data-fb-feed="fb-feed-item"
   >
