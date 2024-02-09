@@ -28,10 +28,12 @@
   ... more items
 </div>
 
+
 <script src="https://cdn.jsdelivr.net/gh/modiphy/facebook-feed@latest/dist/index.js"></script>
 <script>
   addFacebookFeed({
     pageId: 'tomaracleans',
+    itemDisplayStyle: 'flex',
     token: 'EAAS8LGISx9wBAGZAni1Di5rVosXLaleBDH3YELURLS7giL9YfZCKaXlRElw5ufJlT9LaELZBwbTRHuf0cKj8wyAPIrs9g98ZCa7HrmZB2r6Ghq9XgyfiJWOdpHnb56hPctTq3t51VDpBv84I3oN3HxxkLXTohpbSHK73BCQItmBCH2WZAgUbpO'
   })
 </script>
